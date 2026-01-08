@@ -1,8 +1,8 @@
 export const ALLOWED_ORIGINS = [
   'http://localhost:3000',
   'http://localhost:3001',
-  'https://your-frontend-domain.com',
-  // Add your actual frontend URLs
+  'https://mocscode.com',
+  'https://www.mocscode.com',
 ];
 
 export const SOCKET_IO_OPTIONS = {
